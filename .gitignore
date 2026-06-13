@@ -1,0 +1,8 @@
+﻿.vs/
+venv/
+embeddings/
+register_photos/
+access_log.csv
+*.npy
+__pycache__/
+*.pyc
